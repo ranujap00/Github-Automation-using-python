@@ -1,6 +1,7 @@
 # Github-Automation-using-python
 
 ## please refer the dev branch to view all the required files
+## make sure to "pip3 install PyGithub requests" libraries
 
 ## What is this program?
   - This is a program developed to automate the cumbersome task of initializing a new repository
