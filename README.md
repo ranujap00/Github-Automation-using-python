@@ -1,7 +1,9 @@
 # Github-Automation-using-python
 
+## please refer the dev branch to view all the required files
+
 ## What is this program?
-  - This is program developed to automate the cumbersome task of initializing a new repository
+  - This is a program developed to automate the cumbersome task of initializing a new repository
   - This will
     - create a new local repo in the specific folder
     - initialize the git repository
