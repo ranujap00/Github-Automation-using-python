@@ -19,7 +19,7 @@
 
 ## How to run this program
   - First download the GitPyScript.py python file
-  - copy the file to the root folder (C:\Users\<user> path)
+  - copy the file to the root folder (C:\Users\\<user> path)
   - create a folder called bin in the root folder
   - download the script.sh shell script
   - copy the shell script file to the bin folder you just created
