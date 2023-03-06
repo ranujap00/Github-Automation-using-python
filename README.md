@@ -29,7 +29,7 @@
     - github token
       - To generate a token in github settings -> developer settings -> personal access tokens -> generate new token
     - github username
-  - Open git bash anywhere and give the command "script.sh <repo name>" (eg: script.sh MyRepo)
+  - Open git bash anywhere and give the command "script.sh repo_name" (eg: script.sh MyRepo)
   - Then the local repo will be created on the specified folder (parent directory in the python script) and a remote repo
  
 
