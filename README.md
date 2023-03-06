@@ -21,6 +21,7 @@
   - First download the GitPyScript.py python file
   - copy the file to the root folder (C:\Users\joe)
   - create a folder called bin in the root folder
+  - go to the bin folder, copy the path and add it to environment variables
   - download the script.sh shell script
   - copy the shell script file to the bin folder you just created
   - Now open the GitPyScript file which is in your root folder and provide the following info
